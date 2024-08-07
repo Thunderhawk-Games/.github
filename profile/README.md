@@ -1,12 +1,9 @@
-## Hi there 👋
+<div align = "center">
 
-<!--
+<img align="center" alt="Thunderhawk Games" src="https://cdn.discordapp.com/attachments/852986942953488395/1270585433704632393/Untitled1.png?ex=66b43c65&is=66b2eae5&hm=72598f2cfe245a1ac8d69a41639cf7c02b39a2411ac7596b8baeeb8121a3a6d2&">
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+##
+
+Bem-vindos à Thunderhawk Games!
